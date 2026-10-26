@@ -49,3 +49,6 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Audit interne : non publie
+AUDIT.md
